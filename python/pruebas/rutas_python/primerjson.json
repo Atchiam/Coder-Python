@@ -1,0 +1,42 @@
+{
+    "los_wachines": [
+        {
+            "primer_nombre": "braian",
+            "apellido": "ferreyra",
+            "dni": 39788453,
+            "tel": 1155666771
+        },
+        {
+            "primer_nombre": "matias",
+            "apellido": "cardozo",
+            "dni": 37465832,
+            "tel": 1159982371
+        },
+        {
+            "primer_nombre": "Tobias",
+            "apellido": "bolsita de piedras",
+            "dni": 3823763,
+            "tel": 1174735661
+        }
+    ],
+    "los_wachinas": [
+        {
+            "primer_nombre": "braian",
+            "apellido": "ferreyra",
+            "dni": 39788453,
+            "tel": 1155666771
+        },
+        {
+            "primer_nombre": "matias",
+            "apellido": "cardozo",
+            "dni": 37465832,
+            "tel": 1159982371
+        },
+        {
+            "primer_nombre": "Tobias",
+            "apellido": "bolsita de piedras",
+            "dni": 3823763,
+            "tel": 1174735661
+        }
+    ]
+}
