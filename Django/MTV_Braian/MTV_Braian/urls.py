@@ -15,9 +15,10 @@ Including another URLconf
 """
 from django.contrib import admin
 from django.urls import path
-from MTV_BraianApp.views import *
+from MTV_BraianApp.views import inicio,familia
 
 urlpatterns = [
     path('admin/', admin.site.urls),
     path("", inicio),
+    path("fa", familia),
 ]
